@@ -5,7 +5,7 @@ Op donderdag 14 September begon PyData Amsterdam; 3 dagen boordevol met informat
 ![Kromhouthal](gfx/kromhouthal.jpg)
 ![Uitzicht over het IJ](gfx/terras.jpg)
 
-Uiteraard waren er ook de nodig sponsor boots, waar je terecht kon voor een nieuwe baan (grapje), entertainment, stickers of andere swag. Op de foto zie je hoe Tim zijn best doe om een bluetooth RGB-keyboard te bemachtigen. Helaas... niet gelukt.
+Uiteraard waren er ook de nodig sponsor booths, waar je terecht kon voor een nieuwe baan (grapje), entertainment, stickers of andere swag. Op de foto zie je hoe Tim zijn best doe om een bluetooth RGB-keyboard te bemachtigen. Helaas... niet gelukt.
 
 ![Game on!](gfx/game_on.jpg)
 
