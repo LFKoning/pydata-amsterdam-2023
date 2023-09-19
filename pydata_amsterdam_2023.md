@@ -1,6 +1,6 @@
 # PyData Amsterdam 2023
 
-Op donderdag 14 September begon PyData Amsterdam; 3 dagen boordevol met informatie over data en Python. De AFM afvaardiging bestond uit Jeroen (KM), Kushalie (KM), Laurens (KM), Leon (KM), Lukas (Retail), Merel (KM), Rijk (KM), en Tim (MIH). De locatie was de Kromhouthal aan het IJ, die voor de gelegenheid feestelijk was ingericht:
+Op donderdag 14 September begon PyData Amsterdam; 3 dagen boordevol met informatie over data en Python. De AFM afvaardiging bestond uit Jeroen (KM), Joren (Retail), Kushalie (KM), Laurens (KM), Leon (KM), Lukas (Retail), Merel (KM), Rijk (KM), en Tim (MIH). De locatie was de Kromhouthal aan het IJ, die voor de gelegenheid feestelijk was ingericht:
 
 ![Kromhouthal](gfx/kromhouthal.jpg)
 ![Uitzicht over het IJ](gfx/terras.jpg)
