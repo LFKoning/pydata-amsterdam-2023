@@ -1,6 +1,6 @@
 # PyData Amsterdam 2023
 
-Op donderdag 14 September begon PyData Amsterdam; 3 dagen boordevol met informatie over data en Python. De AFM-afvaardiging bestond uit Jeroen (KM), Joren (Retail), Khushalie (KM), Laurens (KM), Leon (KM), Lukas (Retail), Merel (KM), Rijk (KM), en Tim (MIH). De locatie was de Kromhouthal aan het IJ, die voor de gelegenheid feestelijk was ingericht:
+Op donderdag 14 September begon PyData Amsterdam; 3 dagen boordevol met informatie over data en Python. De AFM-afvaardiging bestond uit Jeroen (KM), Joren (Retail), Khushalie (KM), Laurens (KM), Leon (KM), Lukas (Retail), Merel (KM), Rijk (KM), en Tim (Retail). De locatie was de Kromhouthal aan het IJ, die voor de gelegenheid feestelijk was ingericht:
 
 ![Kromhouthal](gfx/kromhouthal.jpg)
 ![Uitzicht over het IJ](gfx/terras.jpg)
@@ -43,6 +43,6 @@ Tot slot was er [duckdb](https://duckdb.org/); dit is een in-memory database waa
 
 ## Human intelligence is all you need!
 
-Na al het geweld over fantastische nieuwe tools en modellen, was er op de laatste dag ook nog een momentje van "bezinning": laten we vooral niet het belang van menselijke intelligentie vergeten! De verleiding is groot om overal simpelweg `fit()` en `predict()` aan te roepen. Maar wie teveel gefocused is op een bepaalde hypothese of techniek, vergeet wellicht te checken welke patronen er echt in de data zitten:
+Na al het geweld over fantastische nieuwe tools en modellen, was er op de laatste dag ook nog een momentje van "bezinning": laten we vooral niet het belang van menselijke intelligentie vergeten! De verleiding is groot om overal direct `fit()` plus `predict()` op toe te passen... Maar wie teveel gefocused is op een bepaalde hypothese of techniek, vergeet wellicht te checken welke patronen er echt in de data zitten:
 
 ![Natural intelligence matters](gfx/natural_intelligence.jpg)
